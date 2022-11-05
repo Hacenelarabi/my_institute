@@ -1,0 +1,80 @@
+
+.navbar-brand{
+    margin-right: 40%;
+}
+.nav-item {
+    margin-right: 80px;
+}
+body{
+    background-image: url("https://www.usnews.com/object/image/0000016c-9bfe-d1ec-a97f-9bfe55dd0000/190816lafayette_college0?size=responsive640&update-time=");
+    margin-top: 200px;
+   
+}
+
+.item2 {
+    position: absolute;
+    right: 0px;
+    
+}
+.btn, .btn1, .btn2, .btn3 {
+    border-radius: 50%;
+}
+.item1 h1 {
+    color:rgb(245, 243, 245);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*<nav class="navbar navbar-expand-md bg-primary navbar-primary">
+        <a class="navbar-brand">NV_School</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+            <div class="collapse navbar-collapse" id="navContent">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" aria-current="page" href="#">home</a>
+                    </li>
+                    <li class="nav-item active"><a class="nav-link" href="#">about</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">location</a></li>
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">service</a>
+                        <ul class="dropdown-menu">
+                            <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#"> photography</a></li>
+                            <li class="nav-item dropdown"></li>><a class="nav-link dropdown-toggle" href="#">service1</a></li>
+                            <li class="nav-item dropdown"></li>><a class="nav-link dropdown-toggle" href="#">service2</a></li>
+                        </ul>
+                    </li>
+                    </ul>
+                    
+
+                   
+                    </div>
+        
+
+    </nav> */
+
