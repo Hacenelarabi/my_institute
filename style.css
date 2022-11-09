@@ -58,7 +58,19 @@
 .col3 .p5 {
     font-size: 26px;
 }
-
+.p5{
+    text-decoration: none;
+}
+.hor1{
+    width: 250px;
+}
+.col6, .col7 {
+    margin-top: 150px;
+}
+.rowx{
+    display: flex;
+    justify-content: center;
+}
 
 
 
